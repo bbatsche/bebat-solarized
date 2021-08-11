@@ -1,0 +1,21 @@
+{
+    "name": "bebat-solarized",
+    "displayName": "BeBat Solarized",
+    "description": "Solarized text editor with Light+ UI",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BeBat Solarized",
+                "uiTheme": "vs",
+                "path": "./themes/BeBat Solarized-color-theme.json"
+            }
+        ]
+    }
+}
