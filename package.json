@@ -3,6 +3,7 @@
     "displayName": "BeBat Solarized",
     "description": "Solarized text editor with Light+ UI",
     "version": "0.0.1",
+    "publisher": "BeBat",
     "engines": {
         "vscode": "^1.58.0"
     },
